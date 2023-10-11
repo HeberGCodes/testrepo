@@ -1,2 +1,3 @@
 # testrepo
-IBM DS Course - test repository
+
+## testing as part of the IBM DS Course
